@@ -19,7 +19,7 @@ I'm a full stack frontend developer over a decade of experience and still workin
 
 👯‍♀️ I'm looking to collaborate with other content creators
 
-📫 Reach me via below links
+📫 Reach me via above links
 
 ⚡️ Fun fact: I love to play video games and cats
 
