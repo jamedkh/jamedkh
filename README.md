@@ -2,12 +2,10 @@
 # Hi, all I'm Jamshed Khan! 👋
 
 <br />
-<br />
 
 ## 🚀 About Me
 I'm a full stack frontend developer over a decade of experience and still working and learning...
 
-<br />
 <br />
 
 
@@ -23,8 +21,6 @@ I'm a full stack frontend developer over a decade of experience and still workin
 
 <br />
 <br />
-
-
 
 ## 🛠 Skills & Tools
 
