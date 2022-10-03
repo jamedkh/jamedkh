@@ -16,7 +16,9 @@ I'm a full stack frontend developer over a decade of experience and still workin
 
 ⚡️ Fun fact: I love to play video games and cats
 
-
+<br />
+<br />
+<br />
 
 
 
@@ -29,7 +31,9 @@ I'm a full stack frontend developer over a decade of experience and still workin
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-
+<br />
+<br />
+<br />
 
 ## 🔗 Connect with me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.behance.net/jamedkhan)
