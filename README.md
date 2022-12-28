@@ -7,8 +7,11 @@ Experience Front-end Developer
 I am a front-end developer with more than 10 years of experience in startups, IT companies and digital agencies. I have worked on projects across the spectrum of web development, from design to execution.
 
 🌍  I'm based in Karachi, Pakistan
+
 🖥️  See my portfolio at [My Portfolio](http://www.behance.net/jamedkhan)
+
 ✉️  You can contact me at [jamedkh@gmail.com](mailto:jamedkh@gmail.com)
+
 🧠  I'm learning everything (javascript, css, sass)
  
  ## 🛠 Skills & Tools
